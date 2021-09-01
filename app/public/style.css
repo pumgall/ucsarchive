@@ -1,0 +1,7 @@
+body .tox.tox-silver-sink.tox-tinymce-aux {
+  z-index: 999999;
+}
+
+.tox-notification {
+  display: none !important;
+}
